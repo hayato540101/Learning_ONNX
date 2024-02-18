@@ -1,0 +1,8 @@
+# すべてのファイルを無視
+local
+models
+
+*.onnx
+*.pth
+*.png
+*.jpg
